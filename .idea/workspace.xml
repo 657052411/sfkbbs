@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6f429c0-105c-4c28-852e-a487f191381f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
+  <component name="ProjectId" id="1QzlVbTsWp3ra8wQ9ZAxT9nHsIi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.member_photo_update.php">
+    <configuration name="member_photo_update.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8089/sfkbbs/member_photo_update.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="sfkServer" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8082">
+      <method v="2" />
+    </configuration>
+    <configuration name="member_photo_update.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/member_photo_update.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="show_code.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/show_code.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="vcode.inc.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/inc/vcode.inc.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Built-in Web Server.sfkServer" />
+      <item itemvalue="PHP Script.vcode.inc.php" />
+      <item itemvalue="PHP Script.show_code.php" />
+      <item itemvalue="PHP Script.member_photo_update.php" />
+      <item itemvalue="JavaScript Debug.member_photo_update.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.member_photo_update.php" />
+        <item itemvalue="JavaScript Debug.member_photo_update.php" />
+        <item itemvalue="PHP Script.show_code.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\tyjk\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6f429c0-105c-4c28-852e-a487f191381f" name="Default Changelist" comment="" />
+      <created>1568781329484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568781329484</updated>
+      <workItem from="1568781330606" duration="177000" />
+      <workItem from="1568781701089" duration="952000" />
+      <workItem from="1568812111288" duration="3931000" />
+      <workItem from="1568861924365" duration="18584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
